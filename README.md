@@ -19,12 +19,14 @@
 ## 
 
 # js
+## 深基础
 ## es6+冷门特性
 ## 黑科技
 ## 代码优化
 ## DI IOC
 ## 手写实现某些新特性
 ## 手写实现某些框架
+## arraybuffer
 
 
 # 浏览器
@@ -32,6 +34,7 @@
 ## blob
 ## 缓存策略
 ## intersection observer
+## service worker
 
 # node
 ## 脚手架
@@ -77,4 +80,30 @@
 ## 缓存
 
 # 算法
-## 
+## bfs dfs
+## 排序
+## 贪心算法
+## 循环与递归
+
+# 图形学
+## threejs
+## 可视化
+## canvas
+## webar
+
+# 音视频
+## webrtc
+## 流媒体
+## sse
+## 推送
+
+# 跨平台
+## electron
+## flutter
+## h5 & native
+## Chrome插件
+## webassembly
+## pwa
+
+
+
