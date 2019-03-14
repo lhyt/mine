@@ -27,6 +27,10 @@
 ## 手写实现某些新特性
 ## 手写实现某些框架
 ## arraybuffer
+## symbol
+## proxy
+## reflect
+## generator
 
 
 # 浏览器
@@ -104,6 +108,7 @@
 ## Chrome插件
 ## webassembly
 ## pwa
+## 小程序踩坑
 
 
 
